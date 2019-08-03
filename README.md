@@ -1,8 +1,8 @@
 # Unity-Apps
-Unity Projects: AR, MapBox, 3D Games, 3D Design (Assets, Characters)
+Unity Projects: MapBox, Customized Google Map, Location Based Game, C# scripts, 3D Design (Assets, Characters)
 
-# YumYumCart
-
+---
+## Adventure.US Unity App
 "Adventure.US" uses Unity's powerful game physics engine along with MapBox SDK to build a location based game. Using 3D character assets downloaded from the Unity store and tapping into the location based data to render real 3D heights of buildings with information of what events are going on around you, gives you an immersive and world to play with. 
 
 Download the project here: [Adventure.US](https://drive.google.com/open?id=1fomrLFHEshHUuKwSPD2bjEdlUKyMvlsq "Adventure.US")
@@ -14,14 +14,14 @@ Download the project here: [Adventure.US](https://drive.google.com/open?id=1fomr
 <img src="https://github.com/Nam-H-Nguyen/Unity-Apps/blob/master/Project%20Images/Custom_Map.png" width="50%" />
 
 ## C# Scripts adding Point of Interest labels on buildings
-<img src="https://github.com/Nam-H-Nguyen/Unity-Apps/blob/master/Project%20Images/Point_of_Interest_Script.png" width="100%"/>
+<img src="https://github.com/Nam-H-Nguyen/Unity-Apps/blob/master/Project%20Images/Point_of_Interest_Script.png" width="50%"/>
 
 ## Object Oriented Design
-<img src="https://github.com/Nam-H-Nguyen/Unity-Apps/blob/master/Project%20Images/Player_OOP.png" width="100%"/>
+<img src="https://github.com/Nam-H-Nguyen/Unity-Apps/blob/master/Project%20Images/Player_OOP.png" width="50%"/>
 
 ## Singleton Design 
-<img src="https://github.com/Nam-H-Nguyen/Unity-Apps/blob/master/Project%20Images/Singleton.png" width="100%"/>
-<img src="https://github.com/Nam-H-Nguyen/Unity-Apps/blob/master/Project%20Images/Droid_Inherit_Singleton.png" width="100%"/>
+<img src="https://github.com/Nam-H-Nguyen/Unity-Apps/blob/master/Project%20Images/Singleton.png" width="50%"/>
+<img src="https://github.com/Nam-H-Nguyen/Unity-Apps/blob/master/Project%20Images/Droid_Inherit_Singleton.png" width="50%"/>
 
 ---
 
