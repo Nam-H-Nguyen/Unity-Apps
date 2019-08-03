@@ -3,7 +3,7 @@ Unity Projects: MapBox, Customized Google Map, Location Based Game, C# scripts, 
 
 ---
 ## Adventure.US Unity App
-"Adventure.US" uses Unity's powerful game physics engine along with MapBox SDK to build a location based game. Using 3D character assets downloaded from the Unity store and tapping into the location based data to render real 3D heights of buildings with information of what events are going on around you, gives you an immersive and world to play with. 
+"Adventure.US" uses Unity's powerful game physics engine along with MapBox SDK to build a location based game. Using 3D character assets downloaded from the Unity store and tapping into the location based data to render real 3D heights of buildings with information of what events are going on around you, gives you an immersive world to play with. 
 
 Download the project here: [Adventure.US](https://drive.google.com/open?id=1fomrLFHEshHUuKwSPD2bjEdlUKyMvlsq "Adventure.US")
 
